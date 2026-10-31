@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Lead Gen Prodigy 👋
 
-<!--
-**leadgenprodigi-hue/leadgenprodigi-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Lead Generation Specialist | Meta Ads Expert**
+📍 Kerala, India | Working with Local Businesses
 
-Here are some ideas to get you started:
+#### What I do:
+- 🎯 High-Quality Leads for Interior, Real Estate & Local Businesses
+- 📈 Meta Ads (Facebook & Instagram) - Low Cost Per Lead
+- 💬 WhatsApp Automation & CRM Setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack:
+`Meta Ads` `Google Ads` `WordPress` `Automation`
+
+📩 **Let's Connect:** DM for collaborations!
